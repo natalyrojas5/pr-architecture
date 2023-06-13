@@ -1,11 +1,11 @@
-# 📌 DESCRIPCIÓN DE CAMBIOS ✍️
+# 📝 DESCRIPCIÓN DE CAMBIOS 
 
 <!-- OBLIGATORIO -->
 <!-- Por favor incluya un resumen de los cambios realizados. -->
 
 - Texto de descripción
 
-## 📌 TIPO DE CAMBIO 🛠
+## 📚 TIPO DE CAMBIO 
 
 <!-- OBLIGATORIO -->
 <!-- Por favor incluya un resumen de los cambios realizados. -->
@@ -32,7 +32,7 @@
 
 - [FEATURE - Add button](https://..)
 
-## 📌 SCREENSHOTS 📸 / VIDEO 🎥
+## 📸 CAPTURA  / VIDEO 
 
 <!-- OBLIGATORIO -->
 <!-- Por favor incluya evidencia de los cambios realizados -->
@@ -41,7 +41,7 @@
 | ------------------------ | ------------------------ |
 | ​*adjuntar imgs o video* | ​*adjuntar imgs o video* |
 
-## 📌 TEST DE CONFIGURACIÓN ✅
+## 🧪 TEST DE CONFIGURACIÓN 
 
 <!-- OBLIGATORIO -->
 <!-- Por favor incluya la configuración que realizo para probar los cambios -->
