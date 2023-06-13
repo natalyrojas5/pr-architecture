@@ -47,7 +47,7 @@
 <!-- Por favor incluya la configuración que realizo para probar los cambios -->
 
 - Versión: <!-- 0.0.1-add-button -->
-- Scope (Frontend / Backend): <!-- reviews-1 -->
+- Scope: <!-- reviews-1 -->
 - Deeplink: <!-- meli:// -->
 
 ## 🛎 IMPORTANTE
